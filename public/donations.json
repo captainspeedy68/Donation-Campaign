@@ -1,134 +1,134 @@
 [
-    {
-      "id": 1,
-      "picture": "https://i.postimg.cc/Z0ktnHzG/Clothing.png",
-      "title": "Stylish Shirt",
-      "category": "Clothing",
-      "category_bg": "#4CAF50",
-      "card_bg": "#E8F5E9",
-      "text_button_bg": "#1976D2",
-      "description": "A trendy shirt for your everyday style.",
-      "price": "$29.99"
-    },
-    {
-      "id": 2,
-      "picture": "https://i.postimg.cc/Z0ktnHzG/Clothing.png",
-      "title": "Casual Jeans",
-      "category": "Clothing",
-      "category_bg": "#4CAF50",
-      "card_bg": "#E8F5E9",
-      "text_button_bg": "#1976D2",
-      "description": "Comfortable jeans for a relaxed look.",
-      "price": "$39.99"
-    },
-    {
-      "id": 3,
-      "picture": "https://i.postimg.cc/Z0ktnHzG/Education.png",
-      "title": "Learn Python Course",
-      "category": "Education",
-      "category_bg": "#2196F3",
-      "card_bg": "#E3F2FD",
-      "text_button_bg": "#FFC107",
-      "description": "Master Python programming with our online course.",
-      "price": "$49.99"
-    },
-    {
-      "id": 4,
-      "picture": "https://i.postimg.cc/Z0ktnHzG/Education.png",
-      "title": "Mathematics Basics",
-      "category": "Education",
-      "category_bg": "#2196F3",
-      "card_bg": "#E3F2FD",
-      "text_button_bg": "#FFC107",
-      "description": "Foundations of mathematics for beginners.",
-      "price": "$19.99"
-    },
-    {
-      "id": 5,
-      "picture": "https://i.postimg.cc/Z0ktnHzG/Food.png",
-      "title": "Delicious Pizza",
-      "category": "Food",
-      "category_bg": "#FFC107",
-      "card_bg": "#FFF9C4",
-      "text_button_bg": "#4CAF50",
-      "description": "Savor the taste of our mouth-watering pizza.",
-      "price": "$12.99"
-    },
-    {
-      "id": 6,
-      "picture": "https://i.postimg.cc/Z0ktnHzG/Food.png",
-      "title": "Fresh Salad",
-      "category": "Food",
-      "category_bg": "#FFC107",
-      "card_bg": "#FFF9C4",
-      "text_button_bg": "#4CAF50",
-      "description": "Healthy and refreshing salad for a balanced diet.",
-      "price": "$8.99"
-    },
-    {
-      "id": 7,
-      "picture": "https://i.postimg.cc/Z0ktnHzG/Health.png",
-      "title": "Fitness Tracker",
-      "category": "Health",
-      "category_bg": "#FF5722",
-      "card_bg": "#FFEBEE",
-      "text_button_bg": "#FFC107",
-      "description": "Track your fitness journey with this advanced device.",
-      "price": "$89.99"
-    },
-    {
-      "id": 8,
-      "picture": "https://i.postimg.cc/Z0ktnHzG/Health.png",
-      "title": "Organic Supplements",
-      "category": "Health",
-      "category_bg": "#FF5722",
-      "card_bg": "#FFEBEE",
-      "text_button_bg": "#FFC107",
-      "description": "Boost your health with our natural supplements.",
-      "price": "$29.99"
-    },
-    {
-      "id": 9,
-      "picture": "https://i.postimg.cc/Z0ktnHzG/Clothing.png",
-      "title": "Designer Jacket",
-      "category": "Clothing",
-      "category_bg": "#4CAF50",
-      "card_bg": "#E8F5E9",
-      "text_button_bg": "#1976D2",
-      "description": "Stay warm and stylish with our designer jacket.",
-      "price": "$69.99"
-    },
-    {
-      "id": 10,
-      "picture": "https://i.postimg.cc/Z0ktnHzG/Education.png",
-      "title": "Web Development Bootcamp",
-      "category": "Education",
-      "category_bg": "#2196F3",
-      "card_bg": "#E3F2FD",
-      "text_button_bg": "#FFC107",
-      "description": "Become a skilled web developer in just 10 weeks.",
-      "price": "$99.99"
-    },
-    {
-      "id": 11,
-      "picture": "https://i.postimg.cc/Z0ktnHzG/Food.png",
-      "title": "Gourmet Chocolate Box",
-      "category": "Food",
-      "category_bg": "#FFC107",
-      "card_bg": "#FFF9C4",
-      "text_button_bg": "#4CAF50",
-      "description": "Indulge in the finest selection of gourmet chocolates.",
-      "price": "$24.99"
-    },
-    {
-      "id": 12,
-      "picture": "https://i.postimg.cc/Z0ktnHzG/Health.png",
-      "title": "Yoga Mat",
-      "category": "Health",
-      "category_bg": "#FF5722",
-      "card_bg": "#FFEBEE",
-      "text_button_bg": "#FFC107",
-      "description": "Premium yoga mat for your daily practice.",
-      "price": "$19.99"
-    }
-  ]  
+  {
+    "id": 1,
+    "picture": "https://i.postimg.cc/Z0ktnHzG/Clothing.png",
+    "title": "Stylish T-Shirt",
+    "category": "Clothing",
+    "category_bg": "#FFB6C1",
+    "card_bg": "#FFC0CB",
+    "text_button_bg": "#FF69B4",
+    "description": "Support our clothing drive by donating for this stylish T-shirt. Help someone in need look and feel good!",
+    "price": "$20"
+  },
+  {
+    "id": 2,
+    "picture": "https://i.postimg.cc/Z0ktnHzG/Clothing.png",
+    "title": "Warm Winter Jacket",
+    "category": "Clothing",
+    "category_bg": "#FF69B4",
+    "card_bg": "#FF82A9",
+    "text_button_bg": "#FF8C00",
+    "description": "Contribute to our winter clothing initiative by donating for this warm and cozy jacket. Keep someone warm this season!",
+    "price": "$35"
+  },
+  {
+    "id": 3,
+    "picture": "https://i.postimg.cc/Z0ktnHzG/Clothing.png",
+    "title": "Casual Jeans",
+    "category": "Clothing",
+    "category_bg": "#FFC0CB",
+    "card_bg": "#FFDAB9",
+    "text_button_bg": "#FF6347",
+    "description": "Help us promote casual wear for a good cause. Donate for these comfortable jeans and make a difference!",
+    "price": "$25"
+  },
+  {
+    "id": 4,
+    "picture": "https://i.postimg.cc/tJWjBbjZ/Education.png",
+    "title": "Educational Books Set",
+    "category": "Education",
+    "category_bg": "#F08080",
+    "card_bg": "#CD5C5C",
+    "text_button_bg": "#8B0000",
+    "description": "Support our education drive by donating for this set of educational books. Empower someone through knowledge!",
+    "price": "$30"
+  },
+  {
+    "id": 5,
+    "picture": "https://i.postimg.cc/tJWjBbjZ/Education.png",
+    "title": "Back-to-School Kit",
+    "category": "Education",
+    "category_bg": "#CD5C5C",
+    "card_bg": "#DC143C",
+    "text_button_bg": "#B22222",
+    "description": "Contribute to our back-to-school campaign. Help a student start the academic year right with this essential kit!",
+    "price": "$40"
+  },
+  {
+    "id": 6,
+    "picture": "https://i.postimg.cc/tJWjBbjZ/Education.png",
+    "title": "Digital Learning Tablet",
+    "category": "Education",
+    "category_bg": "#F08080",
+    "card_bg": "#FA8072",
+    "text_button_bg": "#FF4500",
+    "description": "Promote digital education by donating for this learning tablet. Give a student access to online resources!",
+    "price": "$50"
+  },
+  {
+    "id": 7,
+    "picture": "https://i.postimg.cc/MTj2GwXP/Food.png",
+    "title": "Nutrient-Rich Food Basket",
+    "category": "Food",
+    "category_bg": "#90EE90",
+    "card_bg": "#98FB98",
+    "text_button_bg": "#00FF7F",
+    "description": "Contribute to our food drive by donating for this nutrient-rich food basket. Support healthy living for all!",
+    "price": "$15"
+  },
+  {
+    "id": 8,
+    "picture": "https://i.postimg.cc/MTj2GwXP/Food.png",
+    "title": "Family Meal Package",
+    "category": "Food",
+    "category_bg": "#98FB98",
+    "card_bg": "#ADFF2F",
+    "text_button_bg": "#7CFC00",
+    "description": "Support families in need by donating for this wholesome meal package. Bring joy to their dinner table!",
+    "price": "$25"
+  },
+  {
+    "id": 9,
+    "picture": "https://i.postimg.cc/MTj2GwXP/Food.png",
+    "title": "Fresh Produce Box",
+    "category": "Food",
+    "category_bg": "#90EE90",
+    "card_bg": "#8FBC8F",
+    "text_button_bg": "#32CD32",
+    "description": "Promote healthy eating habits by donating for this fresh produce box. Help others access nutritious food!",
+    "price": "$20"
+  },
+  {
+    "id": 10,
+    "picture": "https://i.postimg.cc/c4C7tJdL/Health.png",
+    "title": "Wellness Kit",
+    "category": "Health",
+    "category_bg": "#87CEEB",
+    "card_bg": "#00BFFF",
+    "text_button_bg": "#1E90FF",
+    "description": "Support health and well-being by donating for this wellness kit. Help individuals prioritize their health!",
+    "price": "$30"
+  },
+  {
+    "id": 11,
+    "picture": "https://i.postimg.cc/c4C7tJdL/Health.png",
+    "title": "Fitness Gear Set",
+    "category": "Health",
+    "category_bg": "#00BFFF",
+    "card_bg": "#87CEEB",
+    "text_button_bg": "#4682B4",
+    "description": "Encourage an active lifestyle by donating for this fitness gear set. Empower others to stay fit and healthy!",
+    "price": "$40"
+  },
+  {
+    "id": 12,
+    "picture": "https://i.postimg.cc/c4C7tJdL/Health.png",
+    "title": "Mental Health Workshop",
+    "category": "Health",
+    "category_bg": "#87CEEB",
+    "card_bg": "#1E90FF",
+    "text_button_bg": "#00BFFF",
+    "description": "Contribute to mental health awareness by donating for this workshop. Support individuals in their mental well-being journey!",
+    "price": "$20"
+  }
+]
