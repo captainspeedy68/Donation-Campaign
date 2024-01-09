@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.postimg.cc/Z0ktnHzG/Clothing.png",
+      "title": "Stylish Shirt",
+      "category": "Clothing",
+      "category_bg": "#4CAF50",
+      "card_bg": "#E8F5E9",
+      "text_button_bg": "#1976D2",
+      "description": "A trendy shirt for your everyday style.",
+      "price": "$29.99"
+    },
+    {
+      "id": 2,
+      "picture": "https://i.postimg.cc/Z0ktnHzG/Clothing.png",
+      "title": "Casual Jeans",
+      "category": "Clothing",
+      "category_bg": "#4CAF50",
+      "card_bg": "#E8F5E9",
+      "text_button_bg": "#1976D2",
+      "description": "Comfortable jeans for a relaxed look.",
+      "price": "$39.99"
+    },
+    {
+      "id": 3,
+      "picture": "https://i.postimg.cc/Z0ktnHzG/Education.png",
+      "title": "Learn Python Course",
+      "category": "Education",
+      "category_bg": "#2196F3",
+      "card_bg": "#E3F2FD",
+      "text_button_bg": "#FFC107",
+      "description": "Master Python programming with our online course.",
+      "price": "$49.99"
+    },
+    {
+      "id": 4,
+      "picture": "https://i.postimg.cc/Z0ktnHzG/Education.png",
+      "title": "Mathematics Basics",
+      "category": "Education",
+      "category_bg": "#2196F3",
+      "card_bg": "#E3F2FD",
+      "text_button_bg": "#FFC107",
+      "description": "Foundations of mathematics for beginners.",
+      "price": "$19.99"
+    },
+    {
+      "id": 5,
+      "picture": "https://i.postimg.cc/Z0ktnHzG/Food.png",
+      "title": "Delicious Pizza",
+      "category": "Food",
+      "category_bg": "#FFC107",
+      "card_bg": "#FFF9C4",
+      "text_button_bg": "#4CAF50",
+      "description": "Savor the taste of our mouth-watering pizza.",
+      "price": "$12.99"
+    },
+    {
+      "id": 6,
+      "picture": "https://i.postimg.cc/Z0ktnHzG/Food.png",
+      "title": "Fresh Salad",
+      "category": "Food",
+      "category_bg": "#FFC107",
+      "card_bg": "#FFF9C4",
+      "text_button_bg": "#4CAF50",
+      "description": "Healthy and refreshing salad for a balanced diet.",
+      "price": "$8.99"
+    },
+    {
+      "id": 7,
+      "picture": "https://i.postimg.cc/Z0ktnHzG/Health.png",
+      "title": "Fitness Tracker",
+      "category": "Health",
+      "category_bg": "#FF5722",
+      "card_bg": "#FFEBEE",
+      "text_button_bg": "#FFC107",
+      "description": "Track your fitness journey with this advanced device.",
+      "price": "$89.99"
+    },
+    {
+      "id": 8,
+      "picture": "https://i.postimg.cc/Z0ktnHzG/Health.png",
+      "title": "Organic Supplements",
+      "category": "Health",
+      "category_bg": "#FF5722",
+      "card_bg": "#FFEBEE",
+      "text_button_bg": "#FFC107",
+      "description": "Boost your health with our natural supplements.",
+      "price": "$29.99"
+    },
+    {
+      "id": 9,
+      "picture": "https://i.postimg.cc/Z0ktnHzG/Clothing.png",
+      "title": "Designer Jacket",
+      "category": "Clothing",
+      "category_bg": "#4CAF50",
+      "card_bg": "#E8F5E9",
+      "text_button_bg": "#1976D2",
+      "description": "Stay warm and stylish with our designer jacket.",
+      "price": "$69.99"
+    },
+    {
+      "id": 10,
+      "picture": "https://i.postimg.cc/Z0ktnHzG/Education.png",
+      "title": "Web Development Bootcamp",
+      "category": "Education",
+      "category_bg": "#2196F3",
+      "card_bg": "#E3F2FD",
+      "text_button_bg": "#FFC107",
+      "description": "Become a skilled web developer in just 10 weeks.",
+      "price": "$99.99"
+    },
+    {
+      "id": 11,
+      "picture": "https://i.postimg.cc/Z0ktnHzG/Food.png",
+      "title": "Gourmet Chocolate Box",
+      "category": "Food",
+      "category_bg": "#FFC107",
+      "card_bg": "#FFF9C4",
+      "text_button_bg": "#4CAF50",
+      "description": "Indulge in the finest selection of gourmet chocolates.",
+      "price": "$24.99"
+    },
+    {
+      "id": 12,
+      "picture": "https://i.postimg.cc/Z0ktnHzG/Health.png",
+      "title": "Yoga Mat",
+      "category": "Health",
+      "category_bg": "#FF5722",
+      "card_bg": "#FFEBEE",
+      "text_button_bg": "#FFC107",
+      "description": "Premium yoga mat for your daily practice.",
+      "price": "$19.99"
+    }
+  ]  
