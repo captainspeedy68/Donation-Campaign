@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { useState } from "react";
+import IndividualDonation from "../../IndividualDonation/IndividualDonation";
 
 const DisplayDonations = () => {
     const [donations, setDonations] = useState([]);
@@ -9,8 +10,10 @@ const DisplayDonations = () => {
         .then(data => setDonations(data));
     }, [])
     return (
-        <div>
-            
+        <div className="grid grid-cols-3 gap-8">
+            {
+                donations.map(donation => <IndividualDonation key={donation.id} donation = {donation}></IndividualDonation>)
+            }
         </div>
     );
 };
