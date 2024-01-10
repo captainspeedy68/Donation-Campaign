@@ -5,6 +5,9 @@ import Statistics from '../../../career-hub/career-hub/src/components/Statistics
 // import Home from '../../../career-hub/career-hub/src/components/Home/Home.jsx'
 import App from './App.jsx'
 import Donation from './components/Donation/Donation.jsx'
+import DonationDetails from './components/DonationDetails/DonationDetails.jsx'
+// import Donation from './components/Donation/Donation.jsx'
+// import DonationDetails from './components/DonationDetails/DonationDetails.jsx'
 import Home from './components/Home/Home.jsx'
 import Root from './components/Root/Root.jsx'
 import './index.css'
@@ -25,6 +28,11 @@ const router = createBrowserRouter([
       {
         path: "/statistics",
         element: <Statistics></Statistics>
+      },
+      {
+        path: "/donation/:id",
+        element: <DonationDetails></DonationDetails>,
+        loader: () => fetch("donations.json")
       }
     ]
   }
