@@ -13,7 +13,7 @@ const IndividualDonation = ({ donation }) => {
     // const bgCategory = category_bg.toLowerCase();
     const textButtonBackground = { color: text_button_bg };
     return (
-        <div>
+        <div className="flex justify-center my-5">
             <Link to={`/donation/${id}`}>
                 <div className={`card card-compact shadow-xl w-fit h-fit`} style={cardBg}>
                     <figure className=""><img src={picture} alt="" /></figure>
